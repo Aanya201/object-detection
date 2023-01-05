@@ -1,0 +1,25 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body {
+    background-size: cover;
+    background-position: center;
+}
+.btn {
+    font-size: 17px;
+    background-color: rgb(58, 58, 241);
+    margin-top: 30px;
+    color: antiquewhite;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 40%;
+    border-radius: 20px;
+}
